@@ -7,5 +7,6 @@ Module Program
         message = Console.ReadLine()
         Console.WriteLine($"You said: {message}!")
         Console.WriteLine("Have a nice day!!!")
+        Console.WriteLine("Something is wrong...")
     End Sub
 End Module
