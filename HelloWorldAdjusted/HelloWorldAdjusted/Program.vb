@@ -8,5 +8,6 @@ Module Program
         Console.WriteLine($"You said: {message}!")
         Console.WriteLine("Have a nice day!!!")
         Console.WriteLine("Something is wrong...")
+        Console.WriteLine("I believe it is corrected???")
     End Sub
 End Module
